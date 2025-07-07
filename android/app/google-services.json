@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "204173235803",
+    "project_id": "imtapps",
+    "storage_bucket": "imtapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204173235803:android:62b77d13a814c9d859d17e",
+        "android_client_info": {
+          "package_name": "com.company.imtapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfm4t29bEoXgbm3FSszsPp9NpJz67ySs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204173235803:android:b00868f8a56fb19d59d17e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfm4t29bEoXgbm3FSszsPp9NpJz67ySs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204173235803:android:8fd5707b2f096ae959d17e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ta_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWfm4t29bEoXgbm3FSszsPp9NpJz67ySs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
